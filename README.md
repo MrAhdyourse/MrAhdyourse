@@ -2,7 +2,7 @@
   <img src="img/bgheader-1.png" alt="Banner MrAhdyourse" width="100%" />
 </p>
 
-<h1 align="center">Halo 👋, Saya Ahdi Aghni (Mr.Ahdyourse)</h1>
+<h1 align="center">Halo 👋, Saya (Mr.Ahdyourse & Dilla Aprilia)</h1>
 <h3 align="center">Web Developer Profesional | App Developer | Administrator Server & Jaringan | UI/UX Designer</h3>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 ---
 
-## 🛠️ Bahasa & Tools
+## 🛠️ Bahasa Pemrograman Yang Saya Gunakan :
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,laravel,ruby,react,nodejs,java,figma,photoshop,linux,git,github,docker,mysql,postgres,sqlite,redis,aws,azure,gcp,nginx,apache" />
@@ -205,9 +205,9 @@
 
 ## 💡 Fakta Menarik
 
-- 🎸 Saya bermain gitar dan memproduksi musik di waktu luang
-- 🏃‍♂️ Suka lari dan petualangan outdoor
-- 🧩 Hobi memecahkan puzzle dan permainan logika
+-  Saya adalah calon suaminya dilla!
+-  Suka 
+-  Hobi memecahkan puzzle dan permainan logika
 
 ---
 
@@ -215,7 +215,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         10 jam 30 menit ████████████░░░░░░░░░░░░░
+HTML         80 jam 30 menit ████████████░░░░░░░░░░░░░
 Python        8 jam 15 menit █████████░░░░░░░░░░░░░░░░
 JavaScript    6 jam 40 menit ███████░░░░░░░░░░░░░░░░░░
 PHP           5 jam 20 menit ██████░░░░░░░░░░░░░░░░░░░
@@ -306,7 +306,7 @@ Lainnya       1 jam 30 menit ░░░░░░░░░░░░░░░░░
 
 ## 📬 Kontak
 
-- Email: ahdyourse@gmail.com
+- Email: ahdiworkingdream@gmail.com
 - LinkedIn: [linkedin.com/in/ahdyourse](https://www.linkedin.com/in/ahdyourse)
 - Portfolio: [your-portfolio-link.com](#)
 - Twitter: [@ahdyourse](https://twitter.com/ahdyourse)
