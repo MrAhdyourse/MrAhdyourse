@@ -2,7 +2,7 @@
   <img src="img/bgheader-1.png" alt="Banner MrAhdyourse" width="100%" />
 </p>
 
-<h1 align="center">Halo 👋, Saya (Mr.Ahdyourse & Dilla Aprilia)</h1>
+<h1 align="center">Halo 👋, Saya (Mr.Ahdyourse &</h1>
 <h3 align="center">Web Developer Profesional | App Developer | Administrator Server & Jaringan | UI/UX Designer</h3>
 
 <p align="center">
