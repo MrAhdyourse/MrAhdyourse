@@ -205,7 +205,7 @@
 
 ## 💡 Fakta Menarik
 
--  Saya adalah calon suaminya dilla!
+-  Saya adalah calon suami yang baik!
 -  Suka 
 -  Hobi memecahkan puzzle dan permainan logika
 
