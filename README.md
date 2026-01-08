@@ -90,11 +90,11 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAhdyourse&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.app/?user=MrAhdyourse&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAhdyourse&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="MrAhdyourse GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.app/?user=MrAhdyourse&theme=dracula&hide_border=false" alt="GitHub Streak" height="180" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhdyourse&layout=compact&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhdyourse&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -102,7 +102,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrAhdyourse&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrAhdyourse&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -110,41 +110,39 @@
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAhdyourse&theme=tokyonight&hide_border=false&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAhdyourse&theme=dracula&hide_border=false&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Repositories
 
-<p align="center">
-  <i>Sedang dalam tahap kurasi untuk menampilkan karya terbaik.</i>
-</p>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=MrAhdyourse&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=MrAhdyourse&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/MrAhdyourse/kursuslp3icollegeidm">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=kursuslp3icollegeidm&theme=dracula&border_radius=10" alt="Repo Card 1" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MrAhdyourse/MrAhdyourse">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=MrAhdyourse&theme=dracula&border_radius=10" alt="Repo Card 2" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📝 Latest Insights
+## 📝 Technical Blog
 
 <div align="left">
   <ul>
-    <li>🚀 <b><a href="#">Architecting Scalable Web Applications</a></b> - Deep dive into modern frameworks.</li>
-    <li>🌐 <b><a href="#">Server & Network Best Practices</a></b> - Ensuring maximum uptime and security.</li>
-    <li>🎨 <b><a href="#">The Future of UI/UX</a></b> - Micro-interactions and human-centered design.</li>
+    <li>🚀 <b>Architecting Scalable Web Applications</b> - Latest insights on modern frontend patterns.</li>
+    <li>🌐 <b>Server & Network Best Practices</b> - Ensuring maximum security and uptime.</li>
+    <li>🎨 <b>Human-Centered UI/UX Design</b> - Bridging the gap between code and creativity.</li>
   </ul>
 </div>
 
@@ -153,11 +151,10 @@
 ## 🎨 Creative Showcase
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80" width="32%" style="border-radius: 10px;" />
-  <img src="https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&w=400&q=80" width="32%" style="border-radius: 10px;" />
-  <img src="https://images.unsplash.com/photo-1586717791821-3f44a563dc4c?auto=format&fit=crop&w=400&q=80" width="32%" style="border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhdyourse&theme=dracula&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAhdyourse&theme=dracula&show_icons=true" width="48%" />
 </p>
-<p align="center"><i>"Bridging the gap between complex code and intuitive design."</i></p>
+<p align="center"><i>Generated dynamically using GitHub API services.</i></p>
 
 ---
 
