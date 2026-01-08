@@ -87,56 +87,50 @@
 
 ---
 
-## 📈 Statistik GitHub
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAhdyourse&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAhdyourse&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhdyourse&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAhdyourse&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.app/?user=MrAhdyourse&theme=tokyonight&hide_border=false" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhdyourse&layout=compact&theme=tokyonight&hide_border=false" height="180" />
 </p>
 
 ---
 
-## 🏆 Trofi GitHub
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrAhdyourse&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrAhdyourse&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" />
 </p>
 
 ---
 
-## 📊 Grafik Aktivitas
+## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MrAhdyourse&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAhdyourse&theme=tokyonight&hide_border=false&area=true" width="100%" />
 </p>
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 Featured Projects
 
-<table>
+<p align="center">
+  <i>Sedang dalam tahap kurasi untuk menampilkan karya terbaik.</i>
+</p>
+
+<table align="center">
   <tr>
     <td>
-      <a href="https://github.com/MrAhdyourse/project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=project1&theme=radical" />
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=MrAhdyourse&theme=tokyonight" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/MrAhdyourse/project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=project2&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MrAhdyourse/project3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=project3&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MrAhdyourse/project4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=project4&theme=radical" />
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=MrAhdyourse&theme=tokyonight" />
       </a>
     </td>
   </tr>
@@ -144,23 +138,26 @@
 
 ---
 
-## 📝 Blog Terbaru
+## 📝 Latest Insights
 
-<!-- BLOG-POST-LIST:START -->
-- [Cara Membangun Web App yang Skalabel](https://yourblog.com/post1)
-- [Best Practice Manajemen Jaringan](https://yourblog.com/post2)
-- [Tren UI/UX Tahun 2025](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+<div align="left">
+  <ul>
+    <li>🚀 <b><a href="#">Architecting Scalable Web Applications</a></b> - Deep dive into modern frameworks.</li>
+    <li>🌐 <b><a href="#">Server & Network Best Practices</a></b> - Ensuring maximum uptime and security.</li>
+    <li>🎨 <b><a href="#">The Future of UI/UX</a></b> - Micro-interactions and human-centered design.</li>
+  </ul>
+</div>
 
 ---
 
-## 🎨 Portofolio UI/UX
+## 🎨 Creative Showcase
 
 <p align="center">
-  <img src="https://your-portfolio-link.com/preview1.png" width="200" />
-  <img src="https://your-portfolio-link.com/preview2.png" width="200" />
-  <img src="https://your-portfolio-link.com/preview3.png" width="200" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80" width="32%" style="border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&w=400&q=80" width="32%" style="border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1586717791821-3f44a563dc4c?auto=format&fit=crop&w=400&q=80" width="32%" style="border-radius: 10px;" />
 </p>
+<p align="center"><i>"Bridging the gap between complex code and intuitive design."</i></p>
 
 ---
 
