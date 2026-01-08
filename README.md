@@ -87,74 +87,72 @@
 
 ---
 
-## 📈 GitHub Statistics
-
+<!-- HEADER TYPING EFFECT -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAhdyourse&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="MrAhdyourse GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.app/?user=MrAhdyourse&theme=dracula&hide_border=false" alt="GitHub Streak" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhdyourse&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" height="180" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Specialist;Network+Administrator;System+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- 📊 ACTIVITY VISUALIZATION -->
+<h2 align="center">📈 CONTRIBUTION SPECTRUM</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrAhdyourse&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAhdyourse&theme=radical&area=true&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-## 📊 Activity Graph
+<!-- 🚀 FEATURED PROJECTS (DUMMY FULL CODE CARDS) -->
+<h2 align="center">🚀 FEATURED INNOVATIONS</h2>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <div style="border: 1px solid #2e2e2e; border-radius: 15px; padding: 20px; background: #0d1117;">
+        <img src="https://img.shields.io/badge/System-Architect-F70000?style=for-the-badge&logo=codeproject" />
+        <br/><br/>
+        <b>CORE ENGINE LOGIC</b>
+        <p><small>Advanced algorithmic implementation for high-performance systems.</small></p>
+        <img src="https://img.shields.io/badge/Status-Active-success" />
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <div style="border: 1px solid #2e2e2e; border-radius: 15px; padding: 20px; background: #0d1117;">
+        <img src="https://img.shields.io/badge/Design-UI/UX-blue?style=for-the-badge&logo=figma" />
+        <br/><br/>
+        <b>CREATIVE INTERFACE</b>
+        <p><small>Next-generation user experiences with seamless interactions.</small></p>
+        <img src="https://img.shields.io/badge/Status-Published-blue" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 📝 KNOWLEDGE BASE -->
+<h2 align="center">📝 TECHNICAL INSIGHTS</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td>🔹 <b>Scale & Performance</b>: Architecting for millions of users.</td>
+    <td>🔹 <b>Cyber Security</b>: Implementing robust shield protocols.</td>
+  </tr>
+  <tr>
+    <td>🔹 <b>Cloud Native</b>: Leveraging AWS & Azure for scalability.</td>
+    <td>🔹 <b>Modern JS</b>: Mastering the React & Vite ecosystem.</td>
+  </tr>
+</table>
+
+---
+
+<!-- 🎨 CREATIVE FOOTER -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAhdyourse&theme=dracula&hide_border=false&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/Crafted_with-Passion-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Developed_by-MrAhdyourse-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-2026-black?style=flat-square" />
 </p>
-
----
-
-## 🚀 Featured Repositories
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/MrAhdyourse/kursuslp3icollegeidm">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=kursuslp3icollegeidm&theme=dracula&border_radius=10" alt="Repo Card 1" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MrAhdyourse/MrAhdyourse">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrAhdyourse&repo=MrAhdyourse&theme=dracula&border_radius=10" alt="Repo Card 2" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📝 Technical Blog
-
-<div align="left">
-  <ul>
-    <li>🚀 <b>Architecting Scalable Web Applications</b> - Latest insights on modern frontend patterns.</li>
-    <li>🌐 <b>Server & Network Best Practices</b> - Ensuring maximum security and uptime.</li>
-    <li>🎨 <b>Human-Centered UI/UX Design</b> - Bridging the gap between code and creativity.</li>
-  </ul>
-</div>
-
----
-
-## 🎨 Creative Showcase
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhdyourse&theme=dracula&layout=compact" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAhdyourse&theme=dracula&show_icons=true" width="48%" />
-</p>
-<p align="center"><i>Generated dynamically using GitHub API services.</i></p>
 
 ---
 
